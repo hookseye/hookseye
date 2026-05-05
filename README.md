@@ -97,47 +97,85 @@
 
 ---
 
-## `◈ TECHNOMANCY STACK ◈`
+## `◈ THE TREE ◈`
 
-<br>
-
-<div align="center">
+<div align="left">
 
 ```
-    ┌────────────────────────────────────────────────────────┐
-    │  ☠ LANGUAGES THAT HAUNT MY DIGITAL SLEEP ☠            │
-    │                                                        │
-    │   Python    ████████████████████████████████████     │
-    │   JavaScript████████████████████████████████████░░     │
-    │   Rust      ██████████████████████████████░░░░░░     │
-    │   Go        ████████████████████████████░░░░░░░░░░     │
-    │   Haskell   ██████████████████████░░░░░░░░░░░░░░     │
-    │   Brainfuck ██████████████████░░░░░░░░░░░░░░░░░░     │
-    │   Binary    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     │
-    │   Eldritch  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░     │
-    │                                                        │
-    └────────────────────────────────────────────────────────┘
+                ╔═══════════════╗
+                ║   ① KETER     ║
+                ║    ◉  crown  ║
+                ╚═══════╦═══════╝
+                   ╱        ╲
+                 ╱            ╲
+         ╔══════╬══════╗  ╔══╬════════╗
+         ║ ② CHOKMAH   ║  ║  ③ BINAH  ║
+         ║   ◉ wisdom ║  ║ ◉underst. ║
+         ╚══════╬══════╝  ╚══╬════════╝
+             ╲      ╱   ╲      ╱
+              ╲    ╱     ╲    ╱
+               ╲  ╱       ╲  ╱
+           ╔════╲╱════=════╲╱════╗
+           ║    ╱╲    ◉    ╱╲    ║
+           ║   ╱  ╲ DA'AT ╱  ╲   ║
+           ║  ╱    ╲◉ ◉ ╱    ╲  ║
+           ║ ╱      ╲  ╱       ╲ ║
+           ╔╱════════╲╱════==══=═╲╗
+           ║④ CHESED  ║  ⑤ GEVURAH║
+           ║ ◉ mercy  ║ ◉severity ║
+           ╚════╦═════╩═════╦════╝
+                ║     ◉     ║
+                ║  ⑥ TIFERET ║
+                ║  ◉ beauty ║
+               ╱ ╲         ╱ ╲
+              ╱   ╲       ╱    ╲
+           ╔╱══     ╲    ╱       ════╗
+           ║⑦ NETZACH ║ ║  ⑧ HOD     ║
+           ║ ◉victory ║ ║ ◉splendor ║
+           ╚════╦═════╝ ╚════╦════╝
+                 ╲          ╱
+                  ╲   ◉   ╱
+                   ╲     ╱
+                    ╲   ╱
+                  ╔══╲ ╱═════╗
+                  ║ ⑨ YESOD  ║
+                  ║  ◉found. ║
+                  ╚════╦════╝
+                       ║
+                       ║
+                ╔══════╩══════╗
+                ║  ⑩ MALKUTH  ║
+                ║   ◉ kingdom ║
+                ╚═════════════╝
+                    ⚡
+                [THE VOID]
 ```
 
-</div>
+</div
+    
+```
+    ╭────────────────────────────────────────────────────────────╮
+    │  🔮 THE TEN SEFIROT OF CODE 🔮                               │
+    │                                                              │
+    │  ① KETER    → root commit, initial state of pure potential  │
+    │  ② CHOKMAH  → algorithms, binary wisdom                     │
+    │  ③ BINAH    → data structures, understanding patterns       │
+    │  ④ CHESED   → scalability, mercy on servers                 │
+    │  ⑤ GEVURAH  → constraints, severity of type systems         │
+    │  ⑥ TIFERET  → balance, the beautiful API                    │
+    │  ⑦ NETZACH  → persistence, victory over bugs                │
+    │  ⑧ HOD      → elegance, splendor of clean code              │
+    │  ⑨ YESOD    → foundation, the framework layer               │
+    │  ⑩ MALKUTH  → production, the manifested kingdom            │
+    │                                                              │
+    │  ◈ DA'AT    → [HIDDEN] the knowledge between branches       │
+    │                                                              │
+    ╰────────────────────────────────────────────────────────────╯
+```
 
-<br>
-
-```
-         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-        ▓                                                ▓
-       ▓   ⚡ FRAMEWORKS I HAVE ABSORBED INTO MY CORE ⚡   ▓
-        ▓                                                ▓
-         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-```
-    ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  
-    │   REACT     │  │   NEXT      │  │   ASTRO     │
-    │  ⚛ ⚛ ⚛     │  │   🔻🔻🔻   │  │    🚀      |   
-    │ [possessed] │  │ [bound]     │  │ [devoured]  │
-    └─────────────┘  └─────────────┘  └─────────────┘  
-```
+<small><small>
+`// the 22 paths connect all functions // the 3 pillars balance the stack // the 4 worlds compile to one`
+</small></small>
 
 ---
 
